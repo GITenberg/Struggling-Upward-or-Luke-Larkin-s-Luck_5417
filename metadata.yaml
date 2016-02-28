@@ -1,0 +1,33 @@
+_repo: Struggling-Upward-or-Luke-Larkin-s-Luck_5417
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Preston, Charles F.
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Robbers and outlaws -- Juvenile fiction'
+- !lcsh 'Swindlers and swindling -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'New England -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: Struggling Upward, or Luke Larkin's Luck
+url: http://www.gutenberg.org/ebooks/5417
