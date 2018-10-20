@@ -1,5 +1,5 @@
 _repo: Struggling-Upward-or-Luke-Larkin-s-Luck_5417
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'New England -- History -- 19th century -- Juvenile fiction'
 - !lcsh 'Conduct of life -- Juvenile fiction'
 - !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- GITenberg
 title: Struggling Upward, or Luke Larkin's Luck
 url: http://www.gutenberg.org/ebooks/5417
